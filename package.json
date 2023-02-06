@@ -1,5 +1,5 @@
 {
-  "name": "@rescript-react-native/async-storage",
+  "name": "rescript-react-native-async-storage",
   "description": "ReScript bindings for @react-native-async-storage/async-storage.",
   "version": "1.17.11",
   "publishConfig": {

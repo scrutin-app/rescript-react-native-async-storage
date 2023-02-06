@@ -1,5 +1,5 @@
 {
-  "name": "@rescript-react-native/async-storage",
+  "name": "rescript-react-native-async-storage",
   "reason": { "react-jsx": 3 },
   "package-specs": {
     "module": "commonjs",
